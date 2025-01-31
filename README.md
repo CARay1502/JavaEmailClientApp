@@ -7,6 +7,7 @@ A simple Java Email Client App using **Swing** and **java.mail** classes.
 ## Screenshots
 
 ![App Screenshot]()
+![Screenshot 2025-01-31 104406](https://github.com/user-attachments/assets/ca4b5191-cc26-4c23-95b8-44d21b80f84b)
 
 
 ## About the Project
